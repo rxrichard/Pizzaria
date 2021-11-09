@@ -6,7 +6,7 @@ let pizzaJson = [
     price: 20.19,
     sizes: ["100g", "530g", "860g"],
     description:
-      "Descrição da pizza em mais de uma linha muito legal bem interessante",
+      "Ingredientes: Queijo mussarela e oregano.",
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ let pizzaJson = [
     price: 18.0,
     sizes: ["320g", "530g", "860g"],
     description:
-      "Descrição da pizza em mais de uma linha muito legal bem interessante",
+      "Ingredientes: Mussarela, calabresa e cebola, oregano. ",
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ let pizzaJson = [
     price: 17.45,
     sizes: ["320g", "530g", "860g"],
     description:
-      "Descrição da pizza em mais de uma linha muito legal bem interessante",
+      "Ingredientes: Mussarela, requeijão, gorgonzola, oregano e parmesão ralado. ",
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ let pizzaJson = [
     price: 19.77,
     sizes: ["320g", "530g", "860g"],
     description:
-      "Descrição da pizza em mais de uma linha muito legal bem interessante",
+      "Ingredientes: Mussarela, pepperoni, champignon, cebola, oregano e pimentão verde. ",
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ let pizzaJson = [
     price: 21.43,
     sizes: ["320g", "530g", "860g"],
     description:
-      "Descrição da pizza em mais de uma linha muito legal bem interessante",
+      "Ingredientes: Massa coberta com sorvete de creme e 8 bolas de sorvete de flocos ",
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ let pizzaJson = [
     price: 18.55,
     sizes: ["320g", "530g", "860g"],
     description:
-      "Descrição da pizza em mais de uma linha muito legal bem interessante",
+      "Ingredientes: Mussarela, pepperoni, azeitona preta, parmesão ralado, oregano bacon, milho, Cream Cheese e alho granulado. ",
   },
   {
     id: 7,
@@ -60,6 +60,6 @@ let pizzaJson = [
     price: 22.36,
     sizes: ["320g", "530g", "860g"],
     description:
-      "Descrição da pizza em mais de uma linha muito legal bem interessante",
+      "Ingredientes: Massa coberta com creme de baunilha e creme de Ovomaltine® crocante.",
   },
 ];
